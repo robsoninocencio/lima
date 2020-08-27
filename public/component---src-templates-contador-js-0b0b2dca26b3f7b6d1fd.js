@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{ifjY:function(n,e,t){"use strict";t.r(e);var o=t("q1tI"),a=t.n(o);e.default=function(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Contador"),"outros dados")}}}]);
+//# sourceMappingURL=component---src-templates-contador-js-0b0b2dca26b3f7b6d1fd.js.map
